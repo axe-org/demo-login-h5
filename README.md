@@ -39,3 +39,7 @@
 
 * 注册成功，发送通知 `RegistAccountSuccess`, 携带数据为 `userInfo: UserInfoModel`
 * 登录成功后，会设置共享数据，`key`为`userInfo`, 值为`UserInfoModel`类型。
+
+## 注意事项
+
+上述说明路由时，我们使用的是`login://login` ，即声明路由。
