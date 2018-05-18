@@ -17,8 +17,7 @@ export default {
       form: {
         account: '',
         password: ''
-      },
-      loading: false
+      }
     }
   },
   methods: {
